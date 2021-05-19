@@ -1,0 +1,4 @@
+Wed, 19 May 2021 17:56:06 +0200;
+De exeption som på träffat är: 
+Exception medelande: Angivna varan ERROR hittades inte i systemet.
+Stack trace: [intergration.ItemCat.getItem(ItemCat.java:39), controller.Controller.scanItem(Controller.java:63), view.View.scanItem(View.java:78), view.View.exampel(View.java:51), startUp.Main.main(Main.java:29)]
